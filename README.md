@@ -28,6 +28,13 @@ This ensures:
 
 ## ⚙️ System Working
 
+<img width="801" height="400" alt="image" src="https://github.com/user-attachments/assets/838b1976-80c2-4260-850c-9fdebed95063" />
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d3f03975-61da-45cb-93dc-584aacad433f" />
+
+<img width="1400" height="796" alt="image" src="https://github.com/user-attachments/assets/124e2dfd-9b27-43e4-94fc-7fba89ea677c" />
+
+
 ### 🔹 Encoding Process
 
 1. Read the source BMP image
